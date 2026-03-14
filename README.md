@@ -1,2 +1,2 @@
 # AMD-project
-for 423 data science final
+for MGTF423 data science final
