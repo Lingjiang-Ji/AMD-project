@@ -90,6 +90,7 @@ The notebook will:
 
 The full project report is available here:[Open the report](report/report.pdf)
 
+---
 
 # Project Contributors
 
@@ -99,4 +100,3 @@ This project was completed as a **group research project**.
 - Yingqi Zhao 
 - Yuanyi Feng
 
----
