@@ -86,6 +86,11 @@ The notebook will:
 
 ---
 
+# Report
+
+The full project report is available here:[Open the report](report/report.pdf)
+
+
 # Project Contributors
 
 This project was completed as a **group research project**.
@@ -95,7 +100,3 @@ This project was completed as a **group research project**.
 - Yuanyi Feng
 
 ---
-
-# Report
-
-The full project report is available here:[Open the report](report/report.pdf)
