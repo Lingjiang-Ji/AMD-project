@@ -10,32 +10,6 @@ The objective is to examine whether forward-looking risk disclosures contain sig
 
 The full methodology and empirical analysis are documented in the project report located in the `report/` folder.
 
----
-
-# Repository Structure
-AMD-distress-risk-language/
-│
-├── code/
-│ └── amd_distress_pipeline.ipynb
-│
-├── data/
-│ ├── 10k.zip
-│ ├── AMD.xlsx
-│ ├── spx.xlsx
-│ └── human_labeled.csv
-│
-├── results/
-│ ├── amd_distress_indices_global_ci.csv
-│ ├── annual_with_indices_and_returns.csv
-│ └── reg_spearman_summary.csv
-│
-├── figures/
-│ ├── distress_index_timeseries.png
-│ ├── soft_distress_scatter.png
-│ └── high_low_soft_bar.png
-│
-└── report/
-└── report2.0.docx
 
 
 ---
